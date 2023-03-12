@@ -4,9 +4,9 @@
 
 ### 🔧  Мои навыки:
 
-- **Программирование:** React, JavaScript, TypeScript;
+- **Программирование:** JavaScript, TypeScript + React, 
 - **Вёрстка:** HTML5, CSS, SCSS, методология БЭМ;
-- **State management:** Redux Toolkit;
+- **State management:** Redux/Redux Toolkit;
 - **Библиотеки тестирования:** Jest;
 
 ### 📖 В процессе:
