@@ -20,9 +20,9 @@
 | Название        | Описание          | Стек  |
 | ------------- | ------------- | ----- |
 | [KeksoBooking](https://github.com/Doc-Kristen/959701-keksobooking-25) | Сервис размещения объявлений о сдаче в аренду недвижимости в центре Токио. [Демонстрация](https://doc-kristen.github.io/959701-keksobooking-25/)| JavaScript|
-| [Big-Trip](https://github.com/Doc-Kristen/959701-big-trip-17) | Сервис для путешественников, который помогает спланировать маршрут поездки, рассчитать стоимость путешествия и получить информацию о достопримечательностях. |SPA на JavaScript с применением паттерна проектирования MVP.|
-| [Six-sities](https://github.com/Doc-Kristen/959701-six-cities-10) |  Сервис аренды жилья для путешественников. Функционал: выбор города, получение актуального списка квартир и сортировка, возможность добавить жилье в избранное и оставлять отзывы после регистрации. |TypeScript, React, Redux, Jest. |
-| [Camera-Shop](https://github.com/Doc-Kristen/Camera_shop) | Магазин фото- и видеоаппаратов. Разделы, над которыми работала: "Каталог", "Страница с товаром", "Корзина". |TypeScript, React, Redux Toolkit, Jest |
+| [Big-Trip](https://github.com/Doc-Kristen/959701-big-trip-17) | Сервис для путешественников, который помогает спланировать маршрут поездки, рассчитать стоимость путешествия и получить информацию о достопримечательностях. [Демонстрация](https://doc-kristen-big-trip-17.vercel.app/)|SPA на JavaScript с применением паттерна проектирования MVP.|
+| [Six-sities](https://github.com/Doc-Kristen/959701-six-cities-10) |  Сервис аренды жилья для путешественников. Функционал: выбор города, получение актуального списка квартир и сортировка, возможность добавить жилье в избранное и оставлять отзывы после регистрации. [Демонстрация](https://959701-six-cities-10-nmch.vercel.app/)|TypeScript, React, Redux. |
+| [Camera-Shop](https://github.com/Doc-Kristen/Camera_shop) | Магазин фото- и видеоаппаратов. Разделы, над которыми работала: "Каталог", "Страница с товаром", "Корзина". [Демонстрация](https://mishchenko-camera-shop.vercel.app)|TypeScript, React, Redux Toolkit, Jest |
 | [Escape Room](https://github.com/Doc-Kristen/grading) | Escape Room — сайт компании, которая занимается проведением игровых квестов разной тематики и уровня сложности. Работала над разделами: "Квесты" (каталог), "Контакты". | TypeScript, React, Redux Toolkit|
 
 
