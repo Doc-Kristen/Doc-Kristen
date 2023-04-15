@@ -30,4 +30,5 @@
 <a href="https://htmlacademy.ru/profile/id959701"><img height="30" src="html-academy.png"></a>&nbsp;&nbsp;
 <a href="https://career.habr.com/doc-kristen"><img height="30" src="habr.svg"></a>&nbsp;&nbsp;
 <a href="https://leetcode.com/Doc-Kristen/"><img height="30" src="leetcode.svg"></a>&nbsp;&nbsp;
+<a href="https://www.codewars.com/users/Doc_Doc/"><img height="30" src="https://www.codewars.com/users/Doc_Doc/badges/micro"></a>  
 </p>
