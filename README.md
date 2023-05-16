@@ -13,6 +13,7 @@
 - "Грокаю" алгоритмы с Aditya Y. Bhargava;
 - Решаю задачи на [Codewars](https://www.codewars.com/users/Doc_Doc);
 - Верстаю личный сайт на сборке Gulp (PUG,Sass).
+- Прохожу курсы на [Hexlet](https://ru.hexlet.io/u/user-ed73c15e7fdfe3ec).
 
 ### 💾 Примеры работ
 
