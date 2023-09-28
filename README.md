@@ -5,14 +5,15 @@
 ### 🔧  Мои навыки:
 
 - **Программирование:** JavaScript, TypeScript + React, 
-- **Вёрстка:** HTML5, CSS, Sass, PUG, методология БЭМ, Pixel Perfect;
-- **State management:** Redux/Redux Toolkit;
+- **Вёрстка:** HTML5, CSS, SCSS, CSS modules PUG, методология БЭМ, Pixel Perfect;
+- **State management:** Redux Toolkit;
 - **Библиотеки тестирования:** Jest, React Testing Library;
 
 ### 📖 В процессе:
 - "Грокаю" алгоритмы с Aditya Y. Bhargava;
 - Решаю задачи на [Codewars](https://www.codewars.com/users/Doc_Doc);
-- Верстаю личный сайт на сборке Gulp (PUG,Sass) ✅
+- ~~Верстаю личный сайт на сборке Gulp (PUG,Sass) ✅~~
+- Переношу личный сайт на Astro;
 - Прохожу курсы на [Hexlet](https://ru.hexlet.io/u/user-ed73c15e7fdfe3ec).
 
 ### 💾 Примеры работ
