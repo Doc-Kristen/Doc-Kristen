@@ -8,7 +8,7 @@
 - **Вёрстка:** HTML5, CSS, SCSS, CSS modules, PUG, методология БЭМ, Pixel Perfect;
 - **State management:** Redux Toolkit;
 - **Библиотеки тестирования:** Jest/Vitest, React Testing Library;
-- - **Дополнительно:** GSAP, Material UI;
+- **Дополнительно:** GSAP, Material UI;
 
 ### 📖 В процессе:
 - "Грокаю" алгоритмы с Aditya Y. Bhargava;
