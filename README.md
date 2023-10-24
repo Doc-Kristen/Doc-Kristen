@@ -15,7 +15,6 @@
 
 | Название        | Описание          | Стек  |
 | ------------- | ------------- | ----- |
-| [React-pizza](https://github.com/Doc-Kristen/react-pizza) | Демо-версия сайта пиццерии. Репозиторий создан с целью целью попрактиковаться, поэкспериментировать с возможностями React. [Демонстрация](https://master--frolicking-rugelach-e30ac6.netlify.app/)|TypeScript, React, Redux Toolkit|
 | [KeksoBooking](https://github.com/Doc-Kristen/959701-keksobooking-25) | Сервис размещения объявлений о сдаче в аренду недвижимости в центре Токио. [Демонстрация](https://doc-kristen.github.io/959701-keksobooking-25/)| JavaScript|
 | [Big-Trip](https://github.com/Doc-Kristen/959701-big-trip-17) | Сервис для путешественников, который помогает спланировать маршрут поездки, рассчитать стоимость путешествия и получить информацию о достопримечательностях. [Демонстрация](https://doc-kristen-big-trip-17.vercel.app/)|SPA на JavaScript с применением паттерна проектирования MVP.|
 | [Six-sities](https://github.com/Doc-Kristen/959701-six-cities-10) |  Сервис аренды жилья для путешественников. Функционал: выбор города, получение актуального списка квартир и сортировка, возможность добавить жилье в избранное и оставлять отзывы после регистрации. [Демонстрация](https://959701-six-cities-10-nmch.vercel.app/)|TypeScript, React, Redux. |
