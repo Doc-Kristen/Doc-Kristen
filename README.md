@@ -15,7 +15,7 @@
 
 | Название        | Описание          | Стек  |
 | ------------- | ------------- | ----- |
-| [PostViewer](https://github.com/Doc-Kristen/post-viewer) | Приложение для просмотра статей о космосе с бесконечным скроллингом из открытой базы данных NASA. Оптимизировано с помощью технологии виртуализации. [Демонстрация](https://post-viewer-six.vercel.app/)| Vite, React, TypeScript, Material UI|
+| [PostViewer](https://github.com/Doc-Kristen/post-viewer) | Приложение для просмотра статей о космосе с бесконечным скроллингом из открытой базы данных NASA. Оптимизировано с помощью технологии виртуализации. [Демонстрация](https://post-viewer-six.vercel.app/)|  TypeScript, React (сборка на Vite), Redux Toolkit, Material UI|
 | [KeksoBooking](https://github.com/Doc-Kristen/959701-keksobooking-25) | Сервис размещения объявлений о сдаче в аренду недвижимости в центре Токио. [Демонстрация](https://doc-kristen.github.io/959701-keksobooking-25/)| JavaScript|
 | [Big-Trip](https://github.com/Doc-Kristen/959701-big-trip-17) | Сервис для путешественников, который помогает спланировать маршрут поездки, рассчитать стоимость путешествия и получить информацию о достопримечательностях. [Демонстрация](https://doc-kristen-big-trip-17.vercel.app/)|SPA на JavaScript с применением паттерна проектирования MVP.|
 | [Six-sities](https://github.com/Doc-Kristen/959701-six-cities-10) |  Сервис аренды жилья для путешественников. Функционал: выбор города, получение актуального списка квартир и сортировка, возможность добавить жилье в избранное и оставлять отзывы после регистрации. [Демонстрация](https://959701-six-cities-10-nmch.vercel.app/)|TypeScript, React, Redux. |
