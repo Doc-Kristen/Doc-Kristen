@@ -5,7 +5,7 @@
 ### 🔧  Мои навыки:
 
 - **Программирование:** JavaScript/TypeScript + React;
-- **Вёрстка и стилизация:** Sass (SCSS-syntax), PUG,  Material UI, следование Pixel Perfect;
+- **Вёрстка и стилизация:** Sass (SCSS-syntax), PUG,  Material UI, BEM, следование Pixel Perfect;
 - **Управление состоянием, формы:** Redux Toolkit, React Hook Form;
 - **Библиотеки тестирования:** Jest/Vitest, React Testing Library;
 - **Анимации:** GSAP.
