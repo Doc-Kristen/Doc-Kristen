@@ -8,7 +8,7 @@
 - **Вёрстка и стилизация:** Sass (SCSS-syntax), PUG,  Material UI, следование Pixel Perfect;
 - **State management, forms:** Redux Toolkit, React Hook Form;
 - **Библиотеки тестирования:** Jest/Vitest, React Testing Library;
-- **Анимации:** GSAP;
+- **Анимации:** GSAP.
 
 ### 💾 Примеры работ
 
