@@ -22,7 +22,7 @@
 | [Camera-Shop](https://github.com/Doc-Kristen/Camera_shop) | Магазин фото- и видеоаппаратов. Разделы, над которыми работала: "Каталог", "Страница с товаром", "Корзина". [Демонстрация](https://mishchenko-camera-shop.vercel.app)|TypeScript, React, Redux Toolkit, Jest |
 | [Escape Room](https://github.com/Doc-Kristen/grading) | Escape Room — сайт компании, которая занимается проведением игровых квестов разной тематики и уровня сложности. Работала над разделами: "Квесты" (каталог), "Контакты". | TypeScript, React, Redux Toolkit|
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doc-Kristen)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doc-Kristen&layout=donut-vertical)
 <p align="center">
 <a href="https://htmlacademy.ru/profile/id959701"><img height="30" src="html-academy.png"></a>&nbsp;&nbsp;
 <a href="https://career.habr.com/doc-kristen"><img height="30" src="habr.svg"></a>&nbsp;&nbsp;
