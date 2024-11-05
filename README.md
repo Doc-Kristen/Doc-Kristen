@@ -4,8 +4,8 @@
 
 ### 🔧  Мои навыки:
 
-- **Программирование:** JavaScript/TypeScript + React;
+- **Программирование:** JavaScript/TypeScript + React/Next.js/Astro;
+- **Управление состоянием, формы:** Jotai, Redux Toolkit, React Hook Form;
 - **Вёрстка и стилизация:** Sass (SCSS-syntax), PUG,  Material UI, BEM, Pixel Perfect;
-- **Управление состоянием, формы:** Redux Toolkit, React Hook Form;
 - **Библиотеки тестирования:** Jest/Vitest, React Testing Library;
 - **Анимации:** GSAP.
