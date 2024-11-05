@@ -9,5 +9,3 @@
 - **Управление состоянием, формы:** Redux Toolkit, React Hook Form;
 - **Библиотеки тестирования:** Jest/Vitest, React Testing Library;
 - **Анимации:** GSAP.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doc-Kristen&layout=donut-vertical)
