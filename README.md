@@ -8,4 +8,4 @@
 - **Управление состоянием, формы:** Jotai, Redux Toolkit, React Hook Form;
 - **Вёрстка и стилизация:** Sass (SCSS-syntax), PUG,  Material UI, BEM, Pixel Perfect;
 - **Библиотеки тестирования:** Jest/Vitest, React Testing Library;
-- **Анимации:** GSAP.
+- **Анимации:** GSAP, Lenis.
