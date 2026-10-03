@@ -6,5 +6,5 @@
 
 - **Программирование:** JavaScript/TypeScript + React/Next.js/Astro;
 - **Управление состоянием, формы:** Jotai, Redux Toolkit, React Hook Form;
-- **Вёрстка и стилизация:** Sass (SCSS-syntax), PUG,  Material UI, BEM, Pixel Perfect;
-- **Анимации:** GSAP, Lenis.
+- **Вёрстка и стилизация:** Sass (SCSS-syntax), PUG, BEM, Pixel Perfect;
+- **Анимации:** GSAP, Lenis, Lottie.
